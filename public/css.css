@@ -1,0 +1,42 @@
+body{
+    background-color: lightgrey;
+    color:#000000;
+}
+.leftlist{
+    float:left;
+    width:250px;
+    height:700px;
+    margin:0px;
+    background-color: darkslategrey;
+    overflow: scroll;
+} 
+
+.leftlist ul{
+    padding:0px;
+}
+.leftlist ul li{
+    padding:5px;
+}
+
+.leftlist ul li:hover{
+    background-color: gray
+}
+
+.itemdetail{
+    position:relative;
+    width:50%;
+    margin-left:290px;
+}
+
+.parkheadline a{
+    cursor: pointer;
+}
+
+.img{
+    height: 380px;
+    width: 100%;
+}
+
+.button{
+    
+}
